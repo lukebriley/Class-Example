@@ -2,4 +2,6 @@
 This is just a sample repository for demo purposes.
 
 ## Subtitle
-The purpose of this is to get familiar with using Git
+The purpose of this is to get familiar with using Git.
+
+I am editing this file in the terminal!
